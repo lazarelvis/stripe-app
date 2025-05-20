@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Stripe app
+
+![image](https://github.com/user-attachments/assets/3617646b-3a6d-41ed-9407-de0ecf54ea26)
+
 
 ## Getting Started
 
