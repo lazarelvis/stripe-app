@@ -1,0 +1,6 @@
+5 steps
+1 created next js app
+2 Adding Stripe Payment Elements
+3 Creating APi route Handle
+4 Redirect user to success page
+5 Test payment on localhost
