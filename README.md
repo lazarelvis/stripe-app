@@ -1,8 +1,6 @@
 Stripe app
 
 ![image](https://github.com/user-attachments/assets/3617646b-3a6d-41ed-9407-de0ecf54ea26)
-
-
 ## Getting Started
 
 First, run the development server:
